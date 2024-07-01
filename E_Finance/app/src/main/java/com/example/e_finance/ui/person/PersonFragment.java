@@ -57,7 +57,7 @@ public class PersonFragment extends Fragment {
     private ProgressBar progressBar;
     private int get;
     private PersonViewModel personViewModel;
-    private String appId="477255f2",apiKey="042ca49bec3c291aaec497989bb1a962",apiSecret="NjcyZTE2ZTdkODI0MjI2ZDQwZDgwYWM1";
+    private String appId="",apiKey="",apiSecret="";
 
 
     public View onCreateView(@NonNull LayoutInflater inflater,
