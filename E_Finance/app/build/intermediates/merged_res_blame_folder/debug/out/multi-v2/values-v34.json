@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.e_finance.app-mergeDebugResources-54:/values-v34/values-v34.xml",
+            "map": [
+                {
+                    "source": "E:\\Android\\E_Finance\\app\\src\\main\\res\\values-v34\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "752"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "617"
+                    }
+                }
+            ]
+        }
+    ]
+}

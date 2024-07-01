@@ -1,0 +1,850 @@
+[
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_notchart.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\notchart.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_custom_ledger_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\custom_ledger_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ar_text.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ar_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_drop_down.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\drop_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_familyinfo.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_familyinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_e_person.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\e_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_custom_progress_bar.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_tv_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\tv_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_btn_note_certain.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\btn_note_certain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_desire_add_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\desire_add_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_billnotfind.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\billnotfind.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_right_bottom_radius_grey_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\right_bottom_radius_grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_edit_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_ledger_add.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_ledger_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_login_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\login_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_secret2.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\secret2.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_cycle_bottomsheetdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\cycle_bottomsheetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_search_date_selector.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\search_date_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_billedit.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\billedit.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_bg.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ledger_edit.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ledger_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_family_origin.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_family_origin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\anim_dialog_in.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\anim\\dialog_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\anim_alpha_in.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\anim\\alpha_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_bill_add.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_bill_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_color_check_logo.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\color_check_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_marriage_ledger_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\marriage_ledger_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_daily.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\daily.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\anim_dialog_out.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\anim\\dialog_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_efinance_intro.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_efinance_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_bill_child_recycleview.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\bill_child_recycleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_hello.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\hello.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_port_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\port_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_x_close.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\x_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bubble_ai.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bubble_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_back_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_secret1.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\secret1.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_markview_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\markview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_budget_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\budget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_left_bottom_radius_grey_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\left_bottom_radius_grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ledger_item_select_true.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ledger_item_select_true.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_secret_password.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_secret_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_billsearch_date_select_true.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\billsearch_date_select_true.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_radius_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\radius_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_add_note.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_baby_ledger_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\baby_ledger_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_type.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_year_month_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\year_month_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_add_bill.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\add_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_search_bg_stroke.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\search_bg_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_notbill.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\notbill.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_policy_bottomsheetdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\policy_bottomsheetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_bill_add.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_bill_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ar_tv_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ar_tv_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_info_ring.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_info_ring.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_info_edit.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_info_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_statistics_chart.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_statistics_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_desire_item_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\desire_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_info_delete.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_info_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_01.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_info_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\info_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_type_icon_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\type_icon_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_note_bottomsheetdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\note_bottomsheetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_secret.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_secret.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_cheer.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\cheer.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_account_setting.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_account_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bubble.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bubble.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_switch_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\switch_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_money.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_statistics.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_type_manage.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_type_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_right_arrow.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_markview.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\markview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_type_edit.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_type_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_left_arrow.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\left_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_investment_info.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_investment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_add_ledger.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_add_ledger.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_reset_radius_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\reset_radius_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_top_white_line_left_radius_grey_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\top_white_line_left_radius_grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_left_bottom_radius_grey_bg2.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\left_bottom_radius_grey_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_type_statistics_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\type_statistics_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_enter_logo.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\enter_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ledger_item_select_false.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ledger_item_select_false.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_07.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_07.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_type_show.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_type_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_message_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_familymember_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\familymember_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_check_logo.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\check_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_ledger_bottomsheetdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\ledger_bottomsheetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_06.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_06.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_type_model.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_type_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_billsearch.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_billsearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_person.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_panda3.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\panda3.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_bill_info.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\bill_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_projection_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\projection_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_statistics_info_right.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_statistics_info_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_typeinfo_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\typeinfo_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_text_underline.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\text_underline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_ledger_info.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_ledger_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_cycle_bill.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_cycle_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_function_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\function_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bill_add_calendar.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bill_add_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ledger_add.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ledger_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_funds_record_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\funds_record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_desire.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_desire.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_mymarkviewdot.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\mymarkviewdot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_x.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_tv_bg_null.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\tv_bg_null.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_cycle_bill_edit.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_cycle_bill_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_userinvestment_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\userinvestment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_12.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_billsearch_date_select_false.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\billsearch_date_select_false.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_statistics_budget.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_statistics_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_family.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\family.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_04.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_04.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_year_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\year_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_panda4.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\panda4.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_desire_complete_selector.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\desire_complete_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ai_chat_certain.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ai_chat_certain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_panda.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\panda.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_daily_ledger_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\daily_ledger_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_aichat.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_aichat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_btn1.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\anim_alpha_out.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\anim\\alpha_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_search_ledger_item_selector.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\search_ledger_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_back_arrow_logo.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\back_arrow_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_pgbar.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\pgbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_desire_gradient_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\desire_gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_billstatisticsinfo.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_billstatisticsinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_edittext_radius_grey.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\edittext_radius_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ai_unclickable_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ai_unclickable_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_panda2.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\panda2.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_year_month_day_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\year_month_day_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_left_arrow_grey.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\left_arrow_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_billsearch_date_popwindow.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\billsearch_date_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_02.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_e_statistics.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\e_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bottom_radius_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bottom_radius_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_08.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_08.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_type_edit_save_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\type_edit_save_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_dialog_myalertdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\dialog_myalertdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_finance.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_finance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_statistics_date_bottomsheetdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\statistics_date_bottomsheetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_05.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_05.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_nickname_dialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\nickname_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_cycledate_bottomsheetdialog.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\cycledate_bottomsheetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ar_tv.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ar_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\color_btn_navigation.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\color\\btn_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_panda1.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\panda1.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_09.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_09.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_bubble_user.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\bubble_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_heart_bg.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\heart_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_family_funds.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_family_funds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_10.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_bill_info.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_bill_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_right_arrow_grey.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\right_arrow_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_type_manage.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_type_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_top_radius_btn.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\top_radius_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_setting.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_right_bottom_radius_grey_bg2.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\right_bottom_radius_grey_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_billsearch_ledger_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\billsearch_ledger_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_bill_budget.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_bill_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_top_white_line_right_radius_grey_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\top_white_line_right_radius_grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_03.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_fragment_bill.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\fragment_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_e_bill.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\e_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_type_color_item.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\type_color_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ledger_edits.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ledger_edits.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_btn2.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\btn2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_ledger_info.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\ledger_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_popwindow_layout.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\popwindow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_ai_pic.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\ai_pic.xml"
+    },
+    {
+        "merged": "com.example.e_finance.app-merged_res-56:/layout_activity_finance.xml.flat",
+        "source": "com.example.e_finance.app-main-58:/layout/activity_finance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_curve.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_investment.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_ledger_info.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_ledger_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_my_investment.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_my_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_billadd.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\billadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\drawable_loading_11.png.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\drawable\\loading_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-merged_res-56:\\layout_activity_family_origin.xml.flat",
+        "source": "C:\\Users\\Meteor\\.gradle\\daemon\\7.5\\com.example.e_finance.app-main-58:\\layout\\activity_family_origin.xml"
+    }
+]

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue233">#3C5984</color>
+    <color name="brown">#524155</color>
+    <color name="brown_dark">#B18769</color>
+    <color name="btn_color">#E66E4E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="content_bg">#eeeeee</color>
+    <color name="green">#64DD17</color>
+    <color name="greendark">#4BB309</color>
+    <color name="grey">#E3DFDF</color>
+    <color name="greyalpha">#F5F2F2</color>
+    <color name="greyalpha80">#CCF5F2F2</color>
+    <color name="orange">#FFAB00</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#C65757</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="translucent">#22050505</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC107</color>
+    <color name="yellowalpha">#F6DD91</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">E家理财</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="policy">\t\t我们深知您的隐私对您的重要性，因此，我们非常重视并尊重您的隐私权。这份隐私政策旨在详细解释我们如何收集、使用、保护、共享和存储您的个人信息，以及我们如何确保您的个人信息安全。
+        \n一、信息收集
+        \n自动收集的信息：当您使用我们的家庭理财管理系统时，我们可能会自动收集某些信息，例如您的设备型号、操作系统版本、设备标识符、网络连接状态等。这些信息主要用于优化我们的应用性能和提供更适合您的服务。
+        \n您提供的信息：在使用我们的服务时，您可能需要提供一些个人信息，如姓名、联系方式等。这些信息将用于我们为您提供更好的服务，如财务规划、投资建议等。
+        \n二、信息使用
+        \n我们会使用收集到的信息为您提供更好的服务，包括但不限于：提供个性化的财务规划建议、改善我们的产品和服务、处理您的请求和问题、向您发送通知等。
+        \n三、信息共享
+        \n我们不会无故共享您的个人信息。但是，在以下情况下，我们可能会共享您的信息：
+        \n在您明确同意的情况下。
+        \n为了遵守法律、法规或保护我们的合法权益。
+        \n在提供必要服务时，我们可能会与第三方合作，此时我们可能会共享必要的信息，但我们会确保这些第三方遵守严格的保密义务。
+        \n四、信息安全
+        \n我们采取了一系列安全措施来保护您的个人信息，包括使用加密技术、设置访问权限等。但是，请注意，任何安全措施都不能保证100%的安全，因此，我们建议您在使用我们的服务时保持警惕。
+        \n五、信息存储
+        \n我们会将您的信息存储在我们的服务器上，这些服务器可能位于中国或其他国家。我们会确保这些服务器符合相关的数据保护标准。
+        \n六、您的权利
+        \n您有权要求我们提供关于您的个人信息的副本，有权要求我们更正或删除您的个人信息，也有权要求我们停止使用或共享您的个人信息。如果您有任何疑问或需要行使您的权利，请通过我们的联系方式与我们联系。
+        \n七、更新
+        \n我们可能会不时更新我们的隐私政策，以适应新的法律要求或业务变化。我们会通过应用内通知或其他方式通知您任何重大更改。
+        \n八、联系方式
+        \n如果您有任何关于我们的隐私政策或您的个人信息的疑问，欢迎通过以下方式与我们联系：[QQ：2317685290]。
+        \n九、最后
+        \n我们感谢您对E家理财的信任和支持，我们将尽一切努力保护您的隐私。</string>
+    <string name="protocol">为使用本软件及服务，您应当阅读并遵守《本软件许可协议》（以下简称（本协议）。
+        \n请您务必审慎阅读，从分理解各条款内容，特别是免除或者限制责任的条款，以及开通或使用某项服务的单独协议，并选择接受或不接受。限制，免责条款可能以加粗形式提示您注意。
+        \n除非您已阅读并接受本协议所有条款，否则您无权下载，安装或使用本软件及相关服务。您的下载，安装，登录等使用行为即视为您已阅读并同意上述协议的约束。 如果您未满18周岁，请在法定监护人的陪同下阅读本协议及其他上述协议，并特别注意未成年人使用条款。
+        \n一， 协议的范围
+        \n本协议是您与本软件之间关于您下载，安装，使用，复制本软件，以及使用本软件相关服务所订立的协议。
+        \n二， 关于本服务
+        \n本服务内容是指本软件客户端软件提供基于的Android等多个版本，您必须选择与所安装手机相匹配的软件版本。
+        \n三， 软件的获取
+        \n您可以直接从本软件授权的第三方获取。
+        \n如果您从未经本软件授权的第三方获取本软件或与本软件名称相同的安装程序，本软件无法保证该软件能够正常使用，并对因此给您造成的损失不予负责。下载安装程序后，您需要按照该程序提示的步骤正确安装。
+        \n为提供更加优质，安全的服务，在本软件安装时本软件可能推荐您安装其他软件，您可以选择安装或不安装。
+        \n如果您不再需要使用本软件或者需要安装新版本软件，可以自行卸载。
+        \n四， 软件的更新
+        \n为了改善用户体验，完善服务内容，本软件将不断努力开发新的服务，并为您不时提供软件更新(这些更新可能会采取软件替换，修改，功能强化，版本升级等形式)。
+        \n为了保证本软件及服务的安全性和功能的一致性，本软件有权不向您特别通知而对软件进行更新，或者对软件的部分功能效果进行改变或限制。
+        \n本软件新版本发布后，旧版本的软件可能无法使用，本软件部保证旧版本软件继续可用及相应的服务，请您随时核对并下载最新版本。
+        \n五， 用户个人信息保护
+        \n保护用户个人信息是本软件的一项基本原则，本软件将会采取合理的措施保护用户的信息。除法律法规规定的情形外，未经用户许可本软件不会向第三方公开，透漏用户个人信息。为了向用户提供相关服务功能或改善技术和服务，您在注册账号或使用本服务的过程中，可能需要提供一些必要信息，本软件对相关信息采用国际化标准的加密存错与传输方式，保障用户个人信息的安全。
+        \n未经您的同意，本软件不会向本软件以外的任何公司，组织和个人披露您的个人信息，但法律法规另有规定的除外。
+        \n本软件非常重视对未成年人个人信息的保护。若您是18周岁以下的未成年人，在使用本软件的服务前，应事先取得您家长或法定监护人的书面同意。
+        \n六， 主权力义务条款
+        \n本软件特别提醒您应妥善保管您的账号，当您使用完毕后，应安全退出。
+        \n用户注意事项：您的理解并同意，为了向您提供有效的服务，您在此许可本软件利用您移动通讯终端设备的处理器和宽带等资源。本软件使用过程中可能产生的数据流量的费用，您需自行向运营商了解相关资费信息。
+        \n七， 用户行为规范
+        \n您在使用本服务时需遵守法律法规，社会主义制度，国家利益，公民合法权利，社会公共秩序，道德风尚及信息真实性等“七条底线“要求。
+        \n八， 软件使用规范
+        \n除非法律允许或本软件的书面许可，您使用本软件过程中不得删除本软件及其副本上关于知识产权的信息，不得对本软件进行反向工程等或以其他方式尝试发现本软件的源代码。
+        \n九， 对自己行为负责
+        \n您充分了解并同意，您必须为自己注册账号下的一切行为负责。
+        \n十， 其他
+        \n您使用本软件即视为您已阅读并同意接受本软件协议的约束。本软件有权在必要时修改本协议条款。如果您不接受修改后的条款，应当停止使用本软件。
+    </string>
+    <string name="shortcut_addbill">添加账单</string>
+    <string name="shortcut_addbill_s">添加账单</string>
+    <string name="shortcut_searchbill">查询账单</string>
+    <string name="shortcut_searchbill_s">查询账单</string>
+    <string name="shortcut_statisticsbill">账单统计</string>
+    <string name="shortcut_statisticsbill_s">账单统计</string>
+    <string name="system_name">家庭理财管理系统</string>
+    <string name="title_activity_finance">Finance</string>
+    <string name="title_home">主页</string>
+    <string name="title_person">我的</string>
+    <string name="title_statistics">统计</string>
+    <style name="BottomSheetEdit" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>//设置输入法将dialog顶起
+        
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        
+    </style>
+    <style name="CustomBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="TabTextSize" parent="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="Theme.E_Finance" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/blue233</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/cardBackgroundColor</item>
+        
+    </style>
+    <style mce_bogus="1" name="popup_animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_out</item>
+    </style>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/Count"
+        android:layout_width="0dp"
+        android:layout_height="160dp"
+        android:layout_marginHorizontal="20dp"
+        android:background="@drawable/tv_bg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="01/01-01/31"
+        android:visibility="gone"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/Count"
+        app:layout_constraintEnd_toEndOf="@+id/ringProgressBar"
+        app:layout_constraintStart_toStartOf="@+id/ringProgressBar"
+        app:layout_constraintTop_toBottomOf="@+id/ringProgressBar" />
+
+    <TextView
+        android:id="@+id/remaining"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="剩余预算"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/ringProgressBar"
+        app:layout_constraintEnd_toStartOf="@+id/ringProgressBar"
+        app:layout_constraintStart_toStartOf="@+id/Count" />
+
+    <TextView
+        android:id="@+id/unused"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="0"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@id/ringProgressBar"
+        app:layout_constraintEnd_toEndOf="@+id/ringProgressBar"
+        app:layout_constraintStart_toStartOf="@+id/ringProgressBar" />
+
+    <com.example.e_finance.RingProgressBar
+        android:id="@+id/ringProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/Count"
+        app:layout_constraintEnd_toEndOf="@id/Count"
+        app:layout_constraintStart_toStartOf="@id/Count"
+        app:layout_constraintTop_toTopOf="@id/Count" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="今日还能消费"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/ringProgressBar"
+        app:layout_constraintEnd_toEndOf="@+id/ringProgressBar"
+        app:layout_constraintStart_toStartOf="@+id/ringProgressBar" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="@+id/textView2" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="本月已消费"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/ringProgressBar"
+        app:layout_constraintEnd_toEndOf="@+id/Count"
+        app:layout_constraintStart_toEndOf="@+id/ringProgressBar" />
+
+    <TextView
+        android:id="@+id/budget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点击设置预算"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/ringProgressBar"
+        app:layout_constraintEnd_toEndOf="@+id/ringProgressBar"
+        app:layout_constraintStart_toStartOf="@+id/ringProgressBar" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    tools:context=".Cycle_Bill_Edit">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
+        app:tabTextAppearance="@style/TabTextSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tabGravity="center"
+        app:tabIndicatorColor="#FFAB00"
+        app:tabIndicatorFullWidth="false"
+        app:tabIndicatorHeight="3dp"
+        app:tabMode="scrollable"
+        app:tabSelectedTextColor="@color/black" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintBottom_toTopOf="@id/gridLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tab_layout" />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="4"
+        android:rowCount="6"
+        app:layout_constraintBottom_toBottomOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_columnSpan="4"
+            android:padding="15dp"
+            android:background="@color/white"
+            android:layout_gravity="fill">
+            <TextView
+                android:id="@+id/billledger"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:drawableLeft="@drawable/bill_add_ledger"
+                android:text="用户账本"
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:maxEms="6"
+                android:ellipsize="end"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"/>
+            <TextView
+                android:id="@+id/billdate"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:drawableLeft="@drawable/bill_add_calendar"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:text="每月1日"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/billledger"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <TextView
+                android:id="@+id/notes"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:drawableLeft="@drawable/bill_add_note"
+                android:drawablePadding="10dp"
+                android:gravity="left|center_vertical"
+                android:hint="添加备注..."
+                android:textStyle="bold"
+                android:maxLines="1"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/billdate"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="1"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="2"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="3"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <ImageView
+            android:id="@+id/Clear"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:src="@drawable/back_btn"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+
+        <Button
+            android:id="@+id/btn4"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="4"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="5"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="6"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/Addition"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="+"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn7"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="7"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn8"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="8"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="9"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/Subtraction"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="-"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/btn0"
+            android:layout_columnSpan="2"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/point"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="."
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/Finish"
+            android:layout_rowSpan="1"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn1"
+            android:text="完成"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+
+        <Button
+            android:id="@+id/Again"
+            android:layout_columnSpan="4"
+            android:layout_gravity="fill"
+            android:background="@drawable/btn2"
+            android:text="再    记"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:backgroundTint="@null" />
+    </GridLayout>
+
+    <ImageView
+        android:id="@+id/pgbar"
+        android:visibility="gone"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pgbar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintVertical_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
