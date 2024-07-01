@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         //初始化leancloud
 //        LeanCloud.setLogLevel(LCLogger.Level.DEBUG);
-        LeanCloud.initialize(this, "5r6UPI7dwthrOqSmiqEx42S1-gzGzoHsz", "SaJOuFIfrWM54Ci6ozzrfzbH", "https://5r6upi7d.lc-cn-n1-shared.com");
+        LeanCloud.initialize(this, ,);
 
         androidId = getAndroidId(MainActivity.this);
         if (LCUser.getCurrentUser()!=null){
