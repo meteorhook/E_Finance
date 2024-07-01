@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.e_finance.app-mergeDebugResources-54:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Meteor\\.gradle\\caches\\transforms-3\\4072565be87930d1ae30c72c5bec0333\\transformed\\jetified-refresh-layout-kernel-2.0.5\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,163",
+                        "endColumns": "107,91",
+                        "endOffsets": "158,250"
+                    }
+                }
+            ]
+        }
+    ]
+}

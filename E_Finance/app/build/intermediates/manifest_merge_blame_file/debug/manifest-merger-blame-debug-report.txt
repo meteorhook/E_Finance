@@ -1,0 +1,567 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.e_finance"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:5:5-80
+11-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+12-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:6:5-8:40
+12-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:7:9-66
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:9:5-67
+13-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:9:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:10:5-79
+14-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:10:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 安卓11及以上因为软件包可见性限制，需要指定判断软件包名 -->
+15-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:11:5-76
+15-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:11:22-73
+16    <queries>
+16-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:12:5-14:15
+17        <package android:name="com.tencent.mobileqq" />
+17-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:13:9-56
+17-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:13:18-53
+18    </queries>
+19
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:23:5-75
+20-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:23:22-72
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:24:5-81
+21-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:24:22-78
+22    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+22-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:25:5-27:47
+22-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:26:9-68
+23    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+23-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:29:5-31:47
+23-->[SparkChain.aar] C:\Users\Meteor\.gradle\caches\transforms-3\9b6072e0f671b2ec40e7ea0b3527e5ab\transformed\jetified-SparkChain\AndroidManifest.xml:30:9-70
+24    <uses-permission android:name="android.permission.WAKE_LOCK" />
+24-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:5-68
+24-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:22-65
+25    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+25-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+25-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:22-78
+26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+26-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:5-77
+26-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:22-74
+27
+28    <permission
+28-->[androidx.core:core:1.12.0] C:\Users\Meteor\.gradle\caches\transforms-3\b20832e4fd7b7fc3f233865f5b900b4f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.e_finance.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.12.0] C:\Users\Meteor\.gradle\caches\transforms-3\b20832e4fd7b7fc3f233865f5b900b4f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.12.0] C:\Users\Meteor\.gradle\caches\transforms-3\b20832e4fd7b7fc3f233865f5b900b4f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.e_finance.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.12.0] C:\Users\Meteor\.gradle\caches\transforms-3\b20832e4fd7b7fc3f233865f5b900b4f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.12.0] C:\Users\Meteor\.gradle\caches\transforms-3\b20832e4fd7b7fc3f233865f5b900b4f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:16:5-146:19
+35        android:name="com.example.e_finance.CustomApplication"
+35-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:17:9-42
+36        android:allowBackup="true"
+36-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:18:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.12.0] C:\Users\Meteor\.gradle\caches\transforms-3\b20832e4fd7b7fc3f233865f5b900b4f\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+38        android:dataExtractionRules="@xml/data_extraction_rules"
+38-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:19:9-65
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:fullBackupContent="@xml/backup_rules"
+41-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:20:9-54
+42        android:icon="@drawable/logo"
+42-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:21:9-38
+43        android:label="@string/app_name"
+43-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:22:9-41
+44        android:supportsRtl="true"
+44-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:23:9-35
+45        android:testOnly="true"
+46        android:theme="@style/Theme.E_Finance"
+46-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:24:9-47
+47        android:usesCleartextTraffic="true" >
+47-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:25:9-44
+48        <activity
+48-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:27:9-29:40
+49            android:name="com.example.e_finance.MyInvestmentActivity"
+49-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:28:13-49
+50            android:exported="false" />
+50-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:29:13-37
+51        <activity
+51-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:30:9-32:40
+52            android:name="com.example.e_finance.InvestmentInfoActivity"
+52-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:31:13-51
+53            android:exported="false" />
+53-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:32:13-37
+54        <activity
+54-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:33:9-35:40
+55            android:name="com.example.e_finance.InvestmentActivity"
+55-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:34:13-47
+56            android:exported="false" />
+56-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:35:13-37
+57        <activity
+57-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:36:9-38:40
+58            android:name="com.example.e_finance.FamilyFundsActivity"
+58-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:37:13-48
+59            android:exported="false" />
+59-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:38:13-37
+60        <activity
+60-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:39:9-42:55
+61            android:name="com.example.e_finance.FamilyinfoActivity"
+61-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:40:13-47
+62            android:exported="false"
+62-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:41:13-37
+63            android:windowSoftInputMode="adjustPan" />
+63-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:42:13-52
+64        <activity
+64-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:43:9-46:55
+65            android:name="com.example.e_finance.FamilyOriginActivity"
+65-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:44:13-49
+66            android:exported="false"
+66-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:45:13-37
+67            android:windowSoftInputMode="adjustPan" />
+67-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:46:13-52
+68        <activity
+68-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:47:9-49:40
+69            android:name="com.example.e_finance.AIChatActivity"
+69-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:48:13-43
+70            android:exported="false" />
+70-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:49:13-37
+71        <activity
+71-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:50:9-53:55
+72            android:name="com.example.e_finance.DesireActivity"
+72-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:51:13-43
+73            android:exported="false"
+73-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:52:13-37
+74            android:windowSoftInputMode="adjustPan" />
+74-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:53:13-52
+75        <activity
+75-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:54:9-56:40
+76            android:name="com.example.e_finance.Bill_Budget"
+76-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:55:13-40
+77            android:exported="false" />
+77-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:56:13-37
+78        <activity
+78-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:57:9-59:39
+79            android:name="com.example.e_finance.BillstatisticsinfoActivity"
+79-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:58:13-55
+80            android:exported="true" />
+80-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:59:13-36
+81        <activity
+81-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:60:9-62:39
+82            android:name="com.example.e_finance.Billsearch"
+82-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:61:13-39
+83            android:exported="true" />
+83-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:62:13-36
+84        <activity
+84-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:63:9-65:40
+85            android:name="com.example.e_finance.BillInfo"
+85-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:64:13-37
+86            android:exported="false" />
+86-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:65:13-37
+87        <activity
+87-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:66:9-68:40
+88            android:name="com.example.e_finance.TypeManage"
+88-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:67:13-39
+89            android:exported="false" />
+89-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:68:13-37
+90        <activity
+90-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:69:9-72:55
+91            android:name="com.example.e_finance.TypeEdit"
+91-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:70:13-37
+92            android:exported="false"
+92-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:71:13-37
+93            android:windowSoftInputMode="adjustPan" />
+93-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:72:13-52
+94        <activity
+94-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:73:9-76:55
+95            android:name="com.example.e_finance.LedgerInfo"
+95-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:74:13-39
+96            android:exported="false"
+96-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:75:13-37
+97            android:windowSoftInputMode="adjustPan" />
+97-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:76:13-52
+98        <activity
+98-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:77:9-79:40
+99            android:name="com.example.e_finance.ledgerAdd"
+99-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:78:13-38
+100            android:exported="false" />
+100-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:79:13-37
+101        <activity
+101-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:80:9-83:55
+102            android:name="com.example.e_finance.Cycle_Bill_Edit"
+102-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:81:13-44
+103            android:exported="false"
+103-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:82:13-37
+104            android:windowSoftInputMode="adjustPan" />
+104-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:83:13-52
+105        <activity
+105-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:84:9-86:40
+106            android:name="com.example.e_finance.Cycle_Bill"
+106-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:85:13-39
+107            android:exported="false" />
+107-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:86:13-37
+108        <activity
+108-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:87:9-89:40
+109            android:name="com.example.e_finance.Secret"
+109-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:88:13-35
+110            android:exported="false" />
+110-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:89:13-37
+111        <activity
+111-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:90:9-92:40
+112            android:name="com.example.e_finance.SecretPassword"
+112-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:91:13-43
+113            android:exported="false" />
+113-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:92:13-37
+114        <activity
+114-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:93:9-95:40
+115            android:name="com.example.e_finance.Account_Setting"
+115-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:94:13-44
+116            android:exported="false" />
+116-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:95:13-37
+117        <activity
+117-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:96:9-98:40
+118            android:name="com.example.e_finance.E_Finance_Intro"
+118-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:97:13-44
+119            android:exported="false" /> <!-- 设置底部不被输入法顶起 android:windowSoftInputMode="adjustPan" -->
+119-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:98:13-37
+120        <activity
+120-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:99:9-102:55
+121            android:name="com.example.e_finance.Bill_Add"
+121-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:100:13-37
+122            android:exported="true"
+122-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:101:13-36
+123            android:windowSoftInputMode="adjustPan" />
+123-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:102:13-52
+124        <activity
+124-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:103:9-105:40
+125            android:name="com.example.e_finance.Register"
+125-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:104:13-37
+126            android:exported="false" />
+126-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:105:13-37
+127        <activity
+127-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:106:9-108:40
+128            android:name="com.example.e_finance.Login"
+128-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:107:13-34
+129            android:exported="false" />
+129-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:108:13-37
+130        <activity
+130-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:109:9-111:40
+131            android:name="com.example.e_finance.Setting"
+131-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:110:13-36
+132            android:exported="false" />
+132-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:111:13-37
+133        <activity
+133-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:112:9-116:55
+134            android:name="com.example.e_finance.Finance"
+134-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:113:13-36
+135            android:exported="true"
+135-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:114:13-36
+136            android:label="@string/title_activity_finance"
+136-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:115:13-59
+137            android:windowSoftInputMode="adjustPan" />
+137-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:116:13-52
+138        <activity
+138-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:117:9-126:20
+139            android:name="com.example.e_finance.MainActivity"
+139-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:118:13-41
+140            android:exported="true" >
+140-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:119:13-36
+141            <intent-filter>
+141-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:120:13-123:29
+142                <action android:name="android.intent.action.MAIN" />
+142-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:121:17-69
+142-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:121:25-66
+143
+144                <category android:name="android.intent.category.LAUNCHER" />
+144-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:122:17-77
+144-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:122:27-74
+145            </intent-filter>
+146
+147            <meta-data
+147-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:124:13-125:52
+148                android:name="android.app.shortcuts"
+148-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:124:24-60
+149                android:resource="@xml/shortcuts" />
+149-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:125:17-50
+150        </activity>
+151        <activity
+151-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:127:9-140:20
+152            android:name="com.tencent.tauth.AuthActivity"
+152-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:128:13-58
+153            android:exported="true"
+153-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:129:13-36
+154            android:launchMode="singleTask"
+154-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:130:13-44
+155            android:noHistory="true" >
+155-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:131:13-37
+156            <intent-filter>
+156-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:132:13-139:29
+157                <action android:name="android.intent.action.VIEW" />
+157-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:133:17-69
+157-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:133:25-66
+158
+159                <category android:name="android.intent.category.DEFAULT" />
+159-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:135:17-76
+159-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:135:27-73
+160                <category android:name="android.intent.category.BROWSABLE" />
+160-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:136:17-78
+160-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:136:27-75
+161
+162                <data android:scheme="tencent102070940" />
+162-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:138:17-59
+162-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:138:23-56
+163            </intent-filter>
+164        </activity>
+165        <activity
+165-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:141:9-145:75
+166            android:name="com.tencent.connect.common.AssistActivity"
+166-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:142:13-69
+167            android:configChanges="orientation|keyboardHidden"
+167-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:143:13-63
+168            android:screenOrientation="behind"
+168-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:144:13-47
+169            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+169-->E:\Android\E_Finance\app\src\main\AndroidManifest.xml:145:13-72
+170
+171        <provider
+171-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:29:9-37:20
+172            android:name="androidx.startup.InitializationProvider"
+172-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:30:13-67
+173            android:authorities="com.example.e_finance.androidx-startup"
+173-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:31:13-68
+174            android:exported="false" >
+174-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:32:13-37
+175            <meta-data
+175-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:34:13-36:52
+176                android:name="androidx.work.WorkManagerInitializer"
+176-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:35:17-68
+177                android:value="androidx.startup" />
+177-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:36:17-49
+178            <meta-data
+178-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+179                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+179-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+180                android:value="androidx.startup" />
+180-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+181            <meta-data
+181-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Meteor\.gradle\caches\transforms-3\5ca7a0091996a412e62575dce1eb2283\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+182                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+182-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Meteor\.gradle\caches\transforms-3\5ca7a0091996a412e62575dce1eb2283\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+183                android:value="androidx.startup" />
+183-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Meteor\.gradle\caches\transforms-3\5ca7a0091996a412e62575dce1eb2283\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+184        </provider>
+185
+186        <service
+186-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:39:9-45:35
+187            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+187-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:40:13-88
+188            android:directBootAware="false"
+188-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:41:13-44
+189            android:enabled="@bool/enable_system_alarm_service_default"
+189-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:42:13-72
+190            android:exported="false" />
+190-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:43:13-37
+191        <service
+191-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:46:9-52:35
+192            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+192-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:47:13-84
+193            android:directBootAware="false"
+193-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:48:13-44
+194            android:enabled="@bool/enable_system_job_service_default"
+194-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:49:13-70
+195            android:exported="true"
+195-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:50:13-36
+196            android:permission="android.permission.BIND_JOB_SERVICE" />
+196-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:51:13-69
+197        <service
+197-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:53:9-59:35
+198            android:name="androidx.work.impl.foreground.SystemForegroundService"
+198-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:54:13-81
+199            android:directBootAware="false"
+199-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:55:13-44
+200            android:enabled="@bool/enable_system_foreground_service_default"
+200-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:56:13-77
+201            android:exported="false" />
+201-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:57:13-37
+202
+203        <receiver
+203-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:61:9-66:35
+204            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+204-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:62:13-88
+205            android:directBootAware="false"
+205-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:63:13-44
+206            android:enabled="true"
+206-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:64:13-35
+207            android:exported="false" />
+207-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:65:13-37
+208        <receiver
+208-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:67:9-77:20
+209            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+209-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:68:13-106
+210            android:directBootAware="false"
+210-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:69:13-44
+211            android:enabled="false"
+211-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:70:13-36
+212            android:exported="false" >
+212-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:71:13-37
+213            <intent-filter>
+213-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:73:13-76:29
+214                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+214-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:17-87
+214-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:25-84
+215                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+215-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:17-90
+215-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:25-87
+216            </intent-filter>
+217        </receiver>
+218        <receiver
+218-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:78:9-88:20
+219            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+219-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:79:13-104
+220            android:directBootAware="false"
+220-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:80:13-44
+221            android:enabled="false"
+221-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:81:13-36
+222            android:exported="false" >
+222-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:82:13-37
+223            <intent-filter>
+223-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:84:13-87:29
+224                <action android:name="android.intent.action.BATTERY_OKAY" />
+224-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:17-77
+224-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:25-74
+225                <action android:name="android.intent.action.BATTERY_LOW" />
+225-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:17-76
+225-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:25-73
+226            </intent-filter>
+227        </receiver>
+228        <receiver
+228-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:89:9-99:20
+229            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+229-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:90:13-104
+230            android:directBootAware="false"
+230-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:91:13-44
+231            android:enabled="false"
+231-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:92:13-36
+232            android:exported="false" >
+232-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:93:13-37
+233            <intent-filter>
+233-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:95:13-98:29
+234                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+234-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:17-83
+234-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:25-80
+235                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+235-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:17-82
+235-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:25-79
+236            </intent-filter>
+237        </receiver>
+238        <receiver
+238-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:100:9-109:20
+239            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+239-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:101:13-103
+240            android:directBootAware="false"
+240-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:102:13-44
+241            android:enabled="false"
+241-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:103:13-36
+242            android:exported="false" >
+242-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:104:13-37
+243            <intent-filter>
+243-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:106:13-108:29
+244                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+244-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:17-79
+244-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:25-76
+245            </intent-filter>
+246        </receiver>
+247        <receiver
+247-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:110:9-121:20
+248            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+248-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:111:13-88
+249            android:directBootAware="false"
+249-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:112:13-44
+250            android:enabled="false"
+250-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:113:13-36
+251            android:exported="false" >
+251-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:114:13-37
+252            <intent-filter>
+252-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:116:13-120:29
+253                <action android:name="android.intent.action.BOOT_COMPLETED" />
+253-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:17-79
+253-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:25-76
+254                <action android:name="android.intent.action.TIME_SET" />
+254-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:17-73
+254-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:25-70
+255                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+255-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:17-81
+255-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:25-78
+256            </intent-filter>
+257        </receiver>
+258        <receiver
+258-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:122:9-131:20
+259            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+259-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:123:13-99
+260            android:directBootAware="false"
+260-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:124:13-44
+261            android:enabled="@bool/enable_system_alarm_service_default"
+261-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:125:13-72
+262            android:exported="false" >
+262-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:126:13-37
+263            <intent-filter>
+263-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:128:13-130:29
+264                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+264-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:17-98
+264-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:25-95
+265            </intent-filter>
+266        </receiver>
+267        <receiver
+267-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:132:9-142:20
+268            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+268-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:133:13-78
+269            android:directBootAware="false"
+269-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:134:13-44
+270            android:enabled="true"
+270-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:135:13-35
+271            android:exported="true"
+271-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:136:13-36
+272            android:permission="android.permission.DUMP" >
+272-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:137:13-57
+273            <intent-filter>
+273-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:139:13-141:29
+274                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+274-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:17-88
+274-->[androidx.work:work-runtime:2.9.0] C:\Users\Meteor\.gradle\caches\transforms-3\10b99b9d004f8b7db53d6d71cd39069b\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:25-85
+275            </intent-filter>
+276        </receiver>
+277
+278        <service
+278-->[androidx.room:room-runtime:2.5.0] C:\Users\Meteor\.gradle\caches\transforms-3\3a81bcb07fcda7d8ef9454298e3df2b0\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+279            android:name="androidx.room.MultiInstanceInvalidationService"
+279-->[androidx.room:room-runtime:2.5.0] C:\Users\Meteor\.gradle\caches\transforms-3\3a81bcb07fcda7d8ef9454298e3df2b0\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+280            android:directBootAware="true"
+280-->[androidx.room:room-runtime:2.5.0] C:\Users\Meteor\.gradle\caches\transforms-3\3a81bcb07fcda7d8ef9454298e3df2b0\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+281            android:exported="false" />
+281-->[androidx.room:room-runtime:2.5.0] C:\Users\Meteor\.gradle\caches\transforms-3\3a81bcb07fcda7d8ef9454298e3df2b0\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+282
+283        <uses-library
+283-->[androidx.window:window:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\ebdcdb099a80242fa2b51f78643dc31a\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+284            android:name="androidx.window.extensions"
+284-->[androidx.window:window:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\ebdcdb099a80242fa2b51f78643dc31a\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+285            android:required="false" />
+285-->[androidx.window:window:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\ebdcdb099a80242fa2b51f78643dc31a\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+286        <uses-library
+286-->[androidx.window:window:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\ebdcdb099a80242fa2b51f78643dc31a\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+287            android:name="androidx.window.sidecar"
+287-->[androidx.window:window:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\ebdcdb099a80242fa2b51f78643dc31a\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+288            android:required="false" />
+288-->[androidx.window:window:1.0.0] C:\Users\Meteor\.gradle\caches\transforms-3\ebdcdb099a80242fa2b51f78643dc31a\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+289    </application>
+290
+291</manifest>
