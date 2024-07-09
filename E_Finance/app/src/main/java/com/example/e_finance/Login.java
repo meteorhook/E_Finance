@@ -53,7 +53,7 @@ public class Login extends AppCompatActivity {
     private AnimationDrawable ad;
     private CheckBox protocol;
     private BottomSheetDialog dialog;
-
+//this is twice test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
